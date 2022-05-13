@@ -1,7 +1,7 @@
 ## Olá 😎 Me chamo Vinicius Santos Batista.
 
-<br>- 🌱 Estudante de Graduação de ADS na Faculdade FAM!
-<br>- 🔭 Buscando conseguir meu primeiro emprego! Tentando me especializar em Front-End.
+<br>- 🌱 Estudante de Graduação de ADS na Faculdade FAM! Se especializando em Front-End.
+<br>- 🔭 Buscando conseguir meu primeiro emprego na área de Tecnologia! 
 <br>- 📫 EMAIL: vinisantos_1096@hotmail.com
 <div align="center">
   <a href="https://github.com/vinisantos1096">
