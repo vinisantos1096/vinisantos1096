@@ -1,15 +1,15 @@
 ## Olá 😎 Me chamo Vinicius Santos Batista.
 
-<br>- 🌱 Estudante de Graduação de ADS na Faculdade FAM! Se especializando em Front-End.
-<br>- 🔭 Buscando conseguir meu primeiro emprego na área de Tecnologia! 
-<br>- 📫 EMAIL: vinisantos_1096@hotmail.com
+<br>- 🌱 Estudante de Graduação de ADS na Faculdade FAM! Se especializando em Front-End. (Front End Student)
+<br>- 🔭 Buscando conseguir meu primeiro emprego na área de Tecnologia! (I'm looking for my first job in the Technology area!)
+<br>- 📫 EMAIL (Contact me): vinisantos_1096@hotmail.com
 <div align="center">
   <a href="https://github.com/vinisantos1096">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinisantos1096&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisantos1096&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
- ## Tecnologia que uso no meu dia a dia!
+ ## Tecnologia que uso no meu dia a dia! (Technologies used in my day)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -21,7 +21,7 @@
   <img align="center" alt="vini-c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
-   ## Acesse meu Linkedin abaixo. 😄
+   ## Acesse meu LinkedIn abaixo. 😄
   
 <div>
   <a href="https://www.linkedin.com/in/vinisantos1096/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
