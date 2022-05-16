@@ -1,4 +1,4 @@
-## Olá 😎 Me chamo Vinicius Santos Batista.
+## Olá Pessoal! 😎 Me chamo Vinicius Santos Batista.
 
 <br>- 🌱 Estudante de Graduação de ADS na Faculdade FAM! Se especializando em Front-End. (Front End Student)
 <br>- 🔭 Buscando conseguir meu primeiro emprego na área de Tecnologia! (I'm looking for my first job in the Technology area!)
